@@ -10,5 +10,7 @@ It is rather useless that submission instructions are completely separate from t
 Travis: 
 https://www.travis-ci.com/organizations/chloieparsons-401-advanced-javascript/repositories
 
-Heroku: https://kolkrabbi.heroku.com/hooks/github  (all events)
+Heroku: https://chloieparsons-401-advanced-jav.herokuapp.com/
 
+Open PR on GIT: 
+https://github.com/chloieparsons-401-advanced-javascript/Lab-00/pull/2
